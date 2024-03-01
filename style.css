@@ -94,6 +94,7 @@
 }
 
 .right>* {
+    cursor: pointer;
 }
 
 .rt-search {
