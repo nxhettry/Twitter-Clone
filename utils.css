@@ -155,3 +155,35 @@
     font-weight: 400;
     font-size: medium;
 }
+
+@media (max-width: 1340px) {
+
+    .feed1right{
+        gap: 15px;
+    }
+    .feedcommonright4{
+        gap: 3.5rem;
+    }
+}
+@media (max-width: 1184px) {
+    .feedcommonphoto{
+        height: 370px;
+    }
+    .feedcommonright4{
+        gap: 2.5rem;
+    }
+    .feed3video {
+        height: 380px;
+    }
+}
+@media (max-width: 1050px) {
+    .feedcommonphoto{
+        height: 330px;
+    }
+    .feedcommonright4{
+        gap: 2rem;
+    }
+    .feed3video {
+        height: 340px;
+    }
+}
